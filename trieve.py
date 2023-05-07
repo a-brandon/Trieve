@@ -37,7 +37,7 @@ def main():
     streamlit.set_page_config(page_title='Trieve',
                               layout="centered",
                               initial_sidebar_state="auto")
-    image = Image.open('trieve/images/trieve_image.png')
+    image = Image.open('images/trieve_image.png')
     streamlit.image(image)
     artist_names = sorted(streamlit.text_input("Enter the name(s) of the artist.",
                                                help="""Separate multiple artist names with 
