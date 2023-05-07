@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/a-brandon/Trieve/blob/main/images/trieve_image.png)
 
 # Trieve
 Trieve is a simple web application built using Streamlit that automates the process of finding and downloading Spotify IDs to a text file. Typically, finding the ID of an artist requires navigating to their Spotify page and copying the ID at the end of the URL. While this is manageable for one or two artists, it becomes tedious for larger numbers. With Trieve, you can easily find and download the IDs for 10 or more artists in one go."
